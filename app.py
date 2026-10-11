@@ -7,7 +7,7 @@ app = Flask(__name__)
 def home():
     return """
     <h1>Hello! Welcome to My Cloud Application.</h1>
-    <p>Version 1 - CI/CD Pipeline Lab</p>
+    <p>Version 2 - Automatic CI/CD Deployment Successful!</p>
     """
 
 if __name__ == "__main__":
